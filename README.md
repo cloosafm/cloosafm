@@ -13,7 +13,8 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ### 42 School projects
 
-[Libft](https://github.com/cloosafm/cloosafm/42_badges/libfte.png)
+
+![Libft](https://github.com/cloosafm/cloosafm/42_badges/libfte.png)
 [![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)
 https://gitlab.com/42_cursus1/libft_42.git
 
@@ -25,11 +26,12 @@ https://gitlab.com/42_cursus1/Born2beroot.git
 [![acloos's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613557)](https://github.com/JaeSeoKim/badge42)
 https://gitlab.com/42_cursus1/get_next_line.git
 
-[![ft_printf](https://github.com/cloosafm/cloosafm/42_badges/ft_printfe.png)]
+[ft_printf](https://github.com/cloosafm/cloosafm/42_badges/ft_printfe.png)
 [![acloos's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613558)](https://github.com/JaeSeoKim/badge42)
 https://gitlab.com/42_cursus1/ft_printf
 
-[minitalk][![acloos's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2854924)](https://github.com/JaeSeoKim/badge42)
+[minitalk](https://github.com/cloosafm/cloosafm/42_badges/minitalke.png)
+[![acloos's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2854924)](https://github.com/JaeSeoKim/badge42)
 
 
 <!---
