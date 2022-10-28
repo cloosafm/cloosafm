@@ -15,8 +15,8 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 
 ![Libft](https://gitlab.com/42_cursus1/libft_42.git)  
+[![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)  
 ![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)
-[![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)
 
 [Born2beroot](https://github.com/cloosafm/cloosafm/42_badges/born2berootm.png)
 [![acloos's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613559)](https://github.com/JaeSeoKim/badge42)
