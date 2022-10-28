@@ -14,7 +14,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ### 42 School projects
 
 
-![Libft](https://github.com/cloosafm/cloosafm/42_badges/libfte.png)
+![Libft](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)
 [![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)
 https://gitlab.com/42_cursus1/libft_42.git
 
