@@ -19,7 +19,6 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)  
 
 1er Cercle:  
-
 ![Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)
 [![acloos's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613559)](https://github.com/JaeSeoKim/badge42)  
 ![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)  
@@ -33,9 +32,8 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)  
 
 2ème Cercle:  
-
 ![minitalk](https://gitlab.com/42_cursus1/minitalk)
-[![acloos's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2854924)](https://github.com/JaeSeoKim/badge42)
+[![acloos's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2854924)](https://github.com/JaeSeoKim/badge42)  
 ![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)  
 
 
