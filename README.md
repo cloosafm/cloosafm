@@ -18,7 +18,8 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 [![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)  
 ![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)  
 
-1er Cercle:
+1er Cercle:  
+
 ![Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)
 [![acloos's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613559)](https://github.com/JaeSeoKim/badge42)  
 ![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)  
@@ -29,12 +30,13 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ![ft_printf](https://gitlab.com/42_cursus1/ft_printf)
 [![acloos's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613558)](https://github.com/JaeSeoKim/badge42)  
-![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)
+![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)  
 
-2ème Cercle:
+2ème Cercle:  
+
 ![minitalk](https://gitlab.com/42_cursus1/minitalk)
 [![acloos's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2854924)](https://github.com/JaeSeoKim/badge42)
-![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)
+![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)  
 
 
 <!---
@@ -79,7 +81,7 @@ basic icons:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloosafm&show_icons=true&hide_rank=true&theme=github_dark&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&theme=github_dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
