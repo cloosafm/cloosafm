@@ -78,20 +78,16 @@ basic icons:
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloosafm&show_icons=true&hide_rank=true&theme=github_dark&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloosafm&show_icons=true&hide_rank=false&theme=github_dark&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 
 <!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acloos&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![acloos's GitHub stats](https://github-readme-stats.vercel.app/api?username=acloos&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 (https://github.com/anuraghazra/github-readme-stats)
 
