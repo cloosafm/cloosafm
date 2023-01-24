@@ -80,7 +80,7 @@ basic icons:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloosafm&show_icons=true&hide_rank=true&theme=github_dark&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&theme=github_dark&hide_title=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&theme=github_dark&hide_title=true&count_private=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
