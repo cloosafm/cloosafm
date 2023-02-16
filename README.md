@@ -15,27 +15,25 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 
 ![Libft](https://gitlab.com/42_cursus1/libft_42.git)
-[![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)  
 ![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)  
 
 1er Cercle:  
 ![Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)
-[![acloos's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613559)](https://github.com/JaeSeoKim/badge42)  
 ![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)  
 
 ![get_next_line](https://gitlab.com/42_cursus1/get_next_line.git)
-[![acloos's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613557)](https://github.com/JaeSeoKim/badge42)  
 ![GNL badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linee.png)  
 
 ![ft_printf](https://gitlab.com/42_cursus1/ft_printf)
-[![acloos's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2613558)](https://github.com/JaeSeoKim/badge42)  
 ![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)  
 
   
 2ème Cercle:  
 ![minitalk](https://gitlab.com/42_cursus1/minitalk)
-[![acloos's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2854924)](https://github.com/JaeSeoKim/badge42)  
 ![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)  
+
+![push_swap](https://gitlab.com/42_cursus1/push_swap.git)
+![push_swap](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)  
 
 
 <!---
@@ -44,6 +42,11 @@ syntax:
 ![project name](gitlab)
 JaeSeoKim vercel badge {followed by 2 spaces for return carriage}
 ![badge icon] (https://github.com/cloosafm/cloosafm/blob/main/42_badges/BADGE-ICON.png)) {followed by 2 spaces for return carriage}
+
+exemple:
+![Libft](https://gitlab.com/42_cursus1/libft_42.git)
+[![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)  
+![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)  
 
 
 
@@ -54,7 +57,6 @@ https://github.com/JaeSeoKim/badge42
 
 basic icons:
 ![so_long badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longe.png)
-![push_swap](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)
 
 ![minishell](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishelle.png)
 ![philosophers](https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png)
@@ -82,6 +84,8 @@ basic icons:
 
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 
