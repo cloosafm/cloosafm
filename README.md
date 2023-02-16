@@ -84,14 +84,10 @@ basic icons:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 
 <!---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
