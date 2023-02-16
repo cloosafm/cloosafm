@@ -82,6 +82,8 @@ basic icons:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloosafm&show_icons=true&hide_rank=false&theme=github_dark&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&langs_count=5&hide_title=true&count_private=true&include_all_commits=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
