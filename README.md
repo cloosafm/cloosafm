@@ -5,31 +5,31 @@
 I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ---
-
+<!---
 ### 42 Stats Card
 
 [![My 42 stats](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
-
+--->
 
 ### 42 School projects
 
 
-![Libft](https://gitlab.com/42_cursus1/libft_42.git)
+![Libft](https://gitlab.com/42_cursus1/libft_42.git)  
 ![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)  
 
 1er Cercle:  
-![Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)
+![Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)  
 ![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)  
 
-![get_next_line](https://gitlab.com/42_cursus1/get_next_line.git)
+![get_next_line](https://gitlab.com/42_cursus1/get_next_line.git)  
 ![GNL badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linee.png)  
 
-![ft_printf](https://gitlab.com/42_cursus1/ft_printf)
+![ft_printf](https://gitlab.com/42_cursus1/ft_printf)  
 ![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)  
 
   
 2ème Cercle:  
-![minitalk](https://gitlab.com/42_cursus1/minitalk)
+![minitalk](https://gitlab.com/42_cursus1/minitalk)  
 ![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)  
 
 ![push_swap](https://gitlab.com/42_cursus1/push_swap.git)
