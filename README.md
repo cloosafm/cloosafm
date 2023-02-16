@@ -32,7 +32,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ![minitalk](https://gitlab.com/42_cursus1/minitalk)  
 ![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)  
 
-![push_swap](https://gitlab.com/42_cursus1/push_swap.git)
+![push_swap](https://gitlab.com/42_cursus1/push_swap.git)  
 ![push_swap](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)  
 
 
