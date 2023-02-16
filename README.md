@@ -85,11 +85,15 @@ basic icons:
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&langs_count=5&langs_count=5)]()
+
+
 
 <!---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&langs_count=5&hide_title=true&count_private=true&include_all_commits=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
