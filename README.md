@@ -33,7 +33,15 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)  
 
 ![push_swap](https://gitlab.com/42_cursus1/push_swap.git)  
-![push_swap](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)  
+![push_swap badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)  
+
+![so_long](https://gitlab.com/42_cursus1/so_long.git)  
+![so_long badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png)  
+
+
+3ème Cercle:
+![philosophers](https://gitlab.com/42_cursus1/philosophers.git)  
+![philosophers badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png)  
 
 
 <!---
@@ -55,23 +63,24 @@ Badges
 git repo for dynamic badges:
 https://github.com/JaeSeoKim/badge42
 
+
 basic icons:
-![so_long badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longe.png)
 
-![minishell](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishelle.png)
-![philosophers](https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png)
+![minishell](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishelle.png)  
 
+4ème Cercle:
+![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
+![mini_rt badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minirte.png)  
+![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppe.png)  
 
-![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)
-![mini_rt badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minirte.png)
-![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppe.png)
+5ème Cercle:
+![webserv badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/webserve.png)  
+![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_irce.png)  
+![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptione.png)  
+![ft_containers badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_ft_containerslonge.png)  
 
-![webserv badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/webserve.png)
-![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_irce.png)
-![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptione.png)
-![ft_containers badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_ft_containerslonge.png)
-
-![ft_transcendance badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencee.png.png)
+6ème Cercle:
+![ft_transcendance badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencee.png.png)  
 
 
 --->
