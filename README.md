@@ -15,14 +15,14 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 
 ![Libft](https://gitlab.com/42_cursus1/libft_42.git)  
-![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)  
+![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)  
 
 1er Cercle:  
 ![Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)  
 ![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)  
 
 ![get_next_line](https://gitlab.com/42_cursus1/get_next_line.git)  
-![GNL badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linee.png)  
+![GNL badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png)  
 
 ![ft_printf](https://gitlab.com/42_cursus1/ft_printf)  
 ![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)  
@@ -30,7 +30,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
   
 2ème Cercle:  
 ![minitalk](https://gitlab.com/42_cursus1/minitalk)  
-![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalke.png)  
+![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png)  
 
 ![push_swap](https://gitlab.com/42_cursus1/push_swap.git)  
 ![push_swap badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)  
@@ -39,10 +39,12 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ![so_long badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png)  
 
 
-3ème Cercle:
+3ème Cercle:  
 ![philosophers](https://gitlab.com/42_cursus1/philosophers.git)  
 ![philosophers badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png)  
 
+![minishell](https://gitlab.com/42_cursus1/minishell.git)  
+![minishell badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png) 
 
 <!---
 
@@ -66,7 +68,6 @@ https://github.com/JaeSeoKim/badge42
 
 basic icons:
 
-![minishell](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishelle.png)  
 
 4ème Cercle:
 ![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
