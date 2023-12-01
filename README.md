@@ -46,6 +46,13 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ![minishell](https://gitlab.com/42_cursus1/minishell.git)  
 ![minishell badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png) 
 
+
+4ème Cercle:  
+NetPractice
+![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
+
+
+
 <!---
 
 syntax:
