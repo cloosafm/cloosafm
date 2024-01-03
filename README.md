@@ -51,8 +51,9 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 NetPractice
 ![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
 
+cub3d
 
-
+![cub3d badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png)  
 <!---
 
 syntax:
