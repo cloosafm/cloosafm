@@ -48,7 +48,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 
 4ème Cercle:  
-NetPractice
+[NetPractice]
 ![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
 
 [cub3d](https://gitlab.com/42_cursus1/cub3d.git)  
