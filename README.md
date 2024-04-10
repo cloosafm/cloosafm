@@ -51,11 +51,17 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 NetPractice
 ![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
 
-cub3d
 [cub3d](https://gitlab.com/42_cursus1/cub3d.git)  
 ![cub3d badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png)  
 
 
+
+5ème Cercle:  
+[Piscine C++]
+![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png)  
+
+[Inception]
+![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptione.png)   
 
 
 <!---
@@ -83,15 +89,9 @@ https://github.com/JaeSeoKim/badge42
 basic icons:
 
 
-4ème Cercle:
-![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
-![mini_rt badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minirte.png)  
-![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png)  
-
 5ème Cercle:
 ![webserv badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/webserve.png)  
 ![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_irce.png)  
-![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptione.png)  
 
 
 6ème Cercle:
