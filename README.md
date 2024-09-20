@@ -54,15 +54,15 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 [cub3d](https://gitlab.com/42_cursus1/cub3d.git)  
 ![cub3d badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png)  
 
-[Piscine C++] (https://gitlab.com/42_cursus1/cpp_piscine)
+[Piscine C++](https://gitlab.com/42_cursus1/cpp_piscine)
 ![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png)  
 
 
 5ème Cercle:  
-[Inception]　(https://gitlab.com/42_cursus1/inception)
-![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptione.png)  
+[Inception](https://gitlab.com/42_cursus1/inception)
+![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png)  
 
-[ft_irc] (https://gitlab.com/42_cursus1/ft_irc)
+[ft_irc](https://gitlab.com/42_cursus1/ft_irc)
 ![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png)  
 
 
