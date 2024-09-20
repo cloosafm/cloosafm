@@ -44,7 +44,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ![philosophers badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png)  
 
 [minishell](https://gitlab.com/42_cursus1/minishell.git)  
-![minishell badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png) 
+![minishell badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png)  
 
 
 4ème Cercle:  
@@ -54,14 +54,16 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 [cub3d](https://gitlab.com/42_cursus1/cub3d.git)  
 ![cub3d badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png)  
 
+[Piscine C++] (https://gitlab.com/42_cursus1/cpp_piscine)
+![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png)  
 
 
 5ème Cercle:  
-[Piscine C++]
-![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png)  
+[Inception]　(https://gitlab.com/42_cursus1/inception)
+![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptione.png)  
 
-[Inception]
-![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png)   
+[ft_irc] (https://gitlab.com/42_cursus1/ft_irc)
+![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png)  
 
 
 <!---
@@ -91,7 +93,7 @@ basic icons:
 
 5ème Cercle:
 ![webserv badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/webserve.png)  
-![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_irce.png)  
+ 
 
 
 6ème Cercle:
