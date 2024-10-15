@@ -14,22 +14,25 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ### 42 School projects
 
 <div align="center">
-
+Common Core :
 <a href="https://gitlab.com/42_cursus1/libft_42">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)</a>
+<a href="https://gitlab.com/42_cursus1/Born2beroot">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)</a>
 <a href="https://gitlab.com/42_cursus1/get_next_line">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://gitlab.com/42_cursus1/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://gitlab.com/42_cursus1/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://gitlab.com/42_cursus1/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
-<a href="https://gitlab.com/42_cursus1/minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
-<a href="https://gitlab.com/42_cursus1/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
-<a href="https://gitlab.com/42_cursus1/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
-<a href="https://gitlab.com/42_cursus1/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
-<a href="https://gitlab.com/42_cursus1/netpractice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
-<a href="https://gitlab.com/42_cursus1/cpp_piscine">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
-<a href="https://gitlab.com/42_cursus1/cub3d">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
-<a href="https://gitlab.com/42_cursus1/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
-<a href="https://gitlab.com/42_cursus1/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
-<a href="https://gitlab.com/42_cursus1/ft_transcendence">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
+<a href="https://gitlab.com/42_cursus1/ft_printf">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)</a>
+
+<a href="https://gitlab.com/42_cursus1/minitalk">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png)</a>
+<a href="https://gitlab.com/42_cursus1/push_swap">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)</a>
+<a href="https://gitlab.com/42_cursus1/so_long">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png)</a>
+<a href="https://gitlab.com/42_cursus1/philosophers">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://gitlab.com/42_cursus1/minishell">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png)</a>
+
+<a href="https://gitlab.com/42_cursus1/netpractice">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)</a>
+<a href="https://gitlab.com/42_cursus1/cub3d">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3de.png)</a>
+<a href="https://gitlab.com/42_cursus1/cpp_piscine">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png)</a>
+<a href="https://gitlab.com/42_cursus1/inception">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptione.png)</a>
+<a href="https://gitlab.com/42_cursus1/ft_irc">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png)</a>
+
+<a href="https://gitlab.com/42_cursus1/ft_transcendence">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png)</a>
 
 </div>
 
@@ -89,41 +92,7 @@ Common Core :
 
 
 
-<!---
 
-syntax:
-![project name](gitlab)
-JaeSeoKim vercel badge {followed by 2 spaces for return carriage}
-![badge icon] (https://github.com/cloosafm/cloosafm/blob/main/42_badges/BADGE-ICON.png)) {followed by 2 spaces for return carriage}
-
-exemple:
-![Libft](https://gitlab.com/42_cursus1/libft_42.git)
-[![acloos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/project/2580603)](https://github.com/JaeSeoKim/badge42)  
-![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libfte.png)  
-
-
-
-Badges
-.e -> basic
-.m -> bonus
-
-git repo for dynamic badges:
-https://github.com/JaeSeoKim/badge42
-
-
-basic icons:
-
-
-5ème Cercle:
-![webserv badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/webserve.png)  
- 
-
-
-6ème Cercle:
-![ft_transcendance badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencee.png.png)  
-
-
---->
 
 ### GitHub Stats
 
