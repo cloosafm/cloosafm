@@ -48,7 +48,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 
 4ème Cercle:  
-[NetPractice]
+[NetPractice](https://gitlab.com/42_cursus1/netpractice.git)
 ![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
 
 [cub3d](https://gitlab.com/42_cursus1/cub3d.git)  
@@ -64,6 +64,11 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 [ft_irc](https://gitlab.com/42_cursus1/ft_irc)
 ![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png)  
+
+
+6ème Cercle:  
+[ft_transcendence](https://github.com/Dylonni/42_ft_transcendence)
+![ft_transcendence badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png.png)  
 
 
 <!---
