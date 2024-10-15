@@ -16,7 +16,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 Common Core :
 
 
-<table>
+<table border="0">
   <tr>
     <td>
       <a href="https://gitlab.com/42_cursus1/libft_42.git">
