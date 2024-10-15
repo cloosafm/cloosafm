@@ -16,20 +16,30 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 Common Core :
 
 
-<p align="center">
-  <a href="https://gitlab.com/42_cursus1/libft_42.git">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png" alt="Libft badge"/>
-  </a><!--
-  --><a href="https://gitlab.com/42_cursus1/Born2beroot.git">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="B2R badge"/>
-  </a><!--
-  --><a href="https://gitlab.com/42_cursus1/get_next_line.git">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png" alt="GNL badge"/>
-  </a><!--
-  --><a href="https://gitlab.com/42_cursus1/ft_printf">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="ft_printf badge"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://gitlab.com/42_cursus1/libft_42.git">
+        <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png" alt="Libft badge"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://gitlab.com/42_cursus1/Born2beroot.git">
+        <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="B2R badge"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://gitlab.com/42_cursus1/get_next_line.git">
+        <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png" alt="GNL badge"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://gitlab.com/42_cursus1/ft_printf">
+        <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="ft_printf badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://gitlab.com/42_cursus1/minitalk">
