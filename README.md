@@ -14,17 +14,16 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ### 42 School projects
 
 Common Core :
+
+
 <p align="center">
   <a href="https://gitlab.com/42_cursus1/libft_42.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png" alt="Libft badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/Born2beroot.git">
+  </a><a href="https://gitlab.com/42_cursus1/Born2beroot.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="B2R badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/get_next_line.git">
+  </a><a href="https://gitlab.com/42_cursus1/get_next_line.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png" alt="GNL badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/ft_printf">
+  </a><a href="https://gitlab.com/42_cursus1/ft_printf">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="ft_printf badge"/>
   </a>
 </p>
@@ -32,17 +31,13 @@ Common Core :
 <p align="center">
   <a href="https://gitlab.com/42_cursus1/minitalk">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png" alt="minitalk badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/push_swap.git">
+  </a><a href="https://gitlab.com/42_cursus1/push_swap.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png" alt="push_swap badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/so_long.git">
+  </a><a href="https://gitlab.com/42_cursus1/so_long.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png" alt="so_long badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/philosophers.git">
+  </a><a href="https://gitlab.com/42_cursus1/philosophers.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png" alt="philosophers badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/minishell.git">
+  </a><a href="https://gitlab.com/42_cursus1/minishell.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png" alt="minishell badge"/>
   </a>
 </p>
@@ -51,17 +46,13 @@ Common Core :
 <p align="center">
   <a href="https://gitlab.com/42_cursus1/netpractice.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png" alt="netpractice badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/cub3d.git">
+  </a><a href="https://gitlab.com/42_cursus1/cub3d.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png" alt="cub3d badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/cpp_piscine">
+  </a><a href="https://gitlab.com/42_cursus1/cpp_piscine">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png" alt="CPP badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/inception">
+  </a><a href="https://gitlab.com/42_cursus1/inception">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png" alt="inception badge"/>
-  </a>
-  <a href="https://gitlab.com/42_cursus1/ft_irc">
+  </a><a href="https://gitlab.com/42_cursus1/ft_irc">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png" alt="ft_irc badge"/>
   </a>
 </p>
