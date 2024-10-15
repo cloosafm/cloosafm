@@ -13,18 +13,15 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ### 42 School projects
 
-[![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)](https://gitlab.com/42_cursus1/libft_42.git)
+[![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)](https://gitlab.com/42_cursus1/libft_42.git)  
 
 
 1er Cercle:  
-[Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)  
-![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)  
+[![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)](https://gitlab.com/42_cursus1/Born2beroot.git)  
 
-[get_next_line](https://gitlab.com/42_cursus1/get_next_line.git)  
-![GNL badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png)  
+[![GNL badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png)](https://gitlab.com/42_cursus1/get_next_line.git)  
 
-[ft_printf](https://gitlab.com/42_cursus1/ft_printf)  
-![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)  
+[![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)](https://gitlab.com/42_cursus1/ft_printf)  
 
   
 2ème Cercle:  
