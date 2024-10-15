@@ -14,7 +14,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ### 42 School projects
 
 <div align="center">
-Common Core :
+
 <a href="https://gitlab.com/42_cursus1/libft_42">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)</a>
 <a href="https://gitlab.com/42_cursus1/Born2beroot">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)</a>
 <a href="https://gitlab.com/42_cursus1/get_next_line">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png)</a>
