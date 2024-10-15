@@ -33,7 +33,7 @@ Common Core :
 <a href="https://gitlab.com/42_cursus1/inception">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png)</a>
 <a href="https://gitlab.com/42_cursus1/ft_irc">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png)</a>
 
-<a href="https://gitlab.com/42_cursus1/ft_transcendence">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png)</a>
+<a href="https://github.com/Dylonni/42_ft_transcendence">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png)</a>
 
 </div>
 
