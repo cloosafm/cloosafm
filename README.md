@@ -13,10 +13,11 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ### 42 School projects
 
-[![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)](https://gitlab.com/42_cursus1/libft_42.git)  
-
-1er Cercle:  
+Common Core :
 <p align="center">
+  <a href="https://gitlab.com/42_cursus1/libft_42.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png" alt="Libft badge"/>
+  </a>
   <a href="https://gitlab.com/42_cursus1/Born2beroot.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="B2R badge"/>
   </a>
@@ -28,7 +29,6 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
   </a>
 </p>
 
-2ème Cercle:  
 <p align="center">
   <a href="https://gitlab.com/42_cursus1/minitalk">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png" alt="minitalk badge"/>
@@ -39,40 +39,39 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
   <a href="https://gitlab.com/42_cursus1/so_long.git">
     <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png" alt="so_long badge"/>
   </a>
+  <a href="https://gitlab.com/42_cursus1/philosophers.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png" alt="philosophers badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/minishell.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png" alt="minishell badge"/>
+  </a>
 </p>
 
 
+<p align="center">
+  <a href="https://gitlab.com/42_cursus1/netpractice.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png" alt="netpractice badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/cub3d.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png" alt="cub3d badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/cpp_piscine">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png" alt="CPP badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/inception">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png" alt="inception badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/ft_irc">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png" alt="ft_irc badge"/>
+  </a>
+</p>
 
-3ème Cercle:  
-[philosophers](https://gitlab.com/42_cursus1/philosophers.git)  
-![philosophers badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png)  
+<p align="center">
+  <a href="https://github.com/Dylonni/42_ft_transcendence">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png" alt="ft_transcendence badge"/>
+  </a>
+</p>
 
-[minishell](https://gitlab.com/42_cursus1/minishell.git)  
-![minishell badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png)  
-
-
-4ème Cercle:  
-[NetPractice](https://gitlab.com/42_cursus1/netpractice.git)
-![netpractice badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png)  
-
-[cub3d](https://gitlab.com/42_cursus1/cub3d.git)  
-![cub3d badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png)  
-
-[Piscine C++](https://gitlab.com/42_cursus1/cpp_piscine)
-![CPP badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png)  
-
-
-5ème Cercle:  
-[Inception](https://gitlab.com/42_cursus1/inception)
-![inception badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png)  
-
-[ft_irc](https://gitlab.com/42_cursus1/ft_irc)
-![ft_irc badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png)  
-
-
-6ème Cercle:  
-[ft_transcendence](https://github.com/Dylonni/42_ft_transcendence)
-![ft_transcendence badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png.png)  
 
 
 <!---
