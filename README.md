@@ -14,8 +14,7 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 ### 42 School projects
 
 
-[Libft](https://gitlab.com/42_cursus1/libft_42.git)  
-![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)  
+![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)(https://gitlab.com/42_cursus1/libft_42.git)  
 
 1er Cercle:  
 [Born2beroot](https://gitlab.com/42_cursus1/Born2beroot.git)  
