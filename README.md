@@ -15,24 +15,32 @@ I'm Alex, a student at [42 Paris](https://42.fr/en/homepage/).
 
 [![Libft badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)](https://gitlab.com/42_cursus1/libft_42.git)  
 
-
 1er Cercle:  
-[![B2R badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)](https://gitlab.com/42_cursus1/Born2beroot.git)  
+<p align="center">
+  <a href="https://gitlab.com/42_cursus1/Born2beroot.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="B2R badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/get_next_line.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png" alt="GNL badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/ft_printf">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="ft_printf badge"/>
+  </a>
+</p>
 
-[![GNL badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png)](https://gitlab.com/42_cursus1/get_next_line.git)  
-
-[![ft_printf badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png)](https://gitlab.com/42_cursus1/ft_printf)  
-
-  
 2ème Cercle:  
-[minitalk](https://gitlab.com/42_cursus1/minitalk)  
-![minitalk badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png)  
+<p align="center">
+  <a href="https://gitlab.com/42_cursus1/minitalk">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png" alt="minitalk badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/push_swap.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png" alt="push_swap badge"/>
+  </a>
+  <a href="https://gitlab.com/42_cursus1/so_long.git">
+    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png" alt="so_long badge"/>
+  </a>
+</p>
 
-[push_swap](https://gitlab.com/42_cursus1/push_swap.git)  
-![push_swap badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png)  
-
-[so_long](https://gitlab.com/42_cursus1/so_long.git)  
-![so_long badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png)  
 
 
 3ème Cercle:  
