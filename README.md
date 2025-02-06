@@ -10,41 +10,42 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 
 - Version control
 
-  <span style="display: inline-block;">
-    <img src="icons/git-original.svg" alt="git" width="30" height="30" />
-    <img src="icons/github-mark-white.svg" alt="github" width="30" height="30" />
-  </span>
+<span style="display: inline-block;">
+    <img src="icons/git-original.svg" alt="git" width="30" height="30" title="Git" />
+    <img src="icons/github-mark-white.svg" alt="github" width="30" height="30" title="GitHub" />
+    <img src="icons/gitlab-logo-500.svg" alt="gitlab" width="30" height="30" title="GitLab" />
+</span>
 
 - Programming languages
 
-  <span style="display: inline-block;">
-    <img src="icons/c-original.svg" alt="c" width="30"     height="30" />
-    <img src="icons/cplusplus-original.svg"     alt="cplusplus" width="30" height="30" />
-    <img src="icons/bash_32x32.svg" alt="bash"     width="30" height="30" />
-    <img src="icons/python-original.svg" alt="python"     width="30" height="30" />
-    <img src="icons/markdown-original.svg"     alt="markdown" width="30" height="30" />
-    <img src="icons/hashicorp-svgrepo-com.svg"     alt="HCL" width="30" height="30" />
-    <img src="icons/yaml-original.svg" alt="yaml"     width="30" height="30" />
-  </span>
+<span style="display: inline-block;">
+    <img src="icons/c-original.svg" alt="c" width="30" height="30" title="C" />
+    <img src="icons/cplusplus-original.svg" alt="cplusplus" width="30" height="30" title="C++" />
+    <img src="icons/bash_32x32.svg" alt="bash" width="30" height="30" title="Bash" />
+    <img src="icons/python-original.svg" alt="python" width="30" height="30" title="Python" />
+    <img src="icons/markdown-original.svg" alt="markdown" width="30" height="30" title="Markdown" />
+    <img src="icons/hashicorp-svgrepo-com.svg" alt="HCL" width="30" height="30" title="HCL" />
+    <img src="icons/yaml-original.svg" alt="yaml" width="30" height="30" title="YAML" />
+</span>
 
 - Editors
 
-  <span style="display: inline-block;">
-    <img src="icons/vscode-original.svg" alt="vscode"     width="30" height="30" />
-    <img src="icons/vim-original.svg" alt="vim"     width="30" height="30" />
-  </span>
+<span style="display: inline-block;">
+    <img src="icons/vscode-original.svg" alt="vscode" width="30" height="30" title="VSCode" />
+    <img src="icons/vim-original.svg" alt="vim" width="30" height="30" title="Vim" />
+</span>
 
 - DevOps tools
 
-  <span style="display: inline-block;">
-    <img src="icons/ansible-original.svg" alt="ansible"     width="30" height="30" />
-    <img src="icons/docker-plain.svg" alt="docker"     width="30" height="30" />
-    <img src="icons/terraform-original.svg"     alt="terraform" width="30" height="30" />
-    <img src="icons/googlecloud-original.svg"     alt="google cloud" width="30" height="30" />
-    <img src="icons/vagrant-original.svg" alt="vagrant"     width="30" height="30" />
-    <img src="icons/grafana-original.svg" alt="grafana"     width="30" height="30" />
-    <img src="icons/vault-original.svg" alt="vault"     width="30" height="30" />
-  </span>
+<span style="display: inline-block;">
+    <img src="icons/ansible-original.svg" alt="ansible" width="30" height="30" title="Ansible" />
+    <img src="icons/docker-plain.svg" alt="docker" width="30" height="30" title="Docker" />
+    <img src="icons/terraform-original.svg" alt="terraform" width="30" height="30" title="Terraform" />
+    <img src="icons/googlecloud-original.svg" alt="google cloud" width="30" height="30" title="Google Cloud Platform" />
+    <img src="icons/vagrant-original.svg" alt="vagrant" width="30" height="30" title="Vagrant" />
+    <img src="icons/grafana-original.svg" alt="grafana" width="30" height="30" title="Grafana" />
+    <img src="icons/vault-original.svg" alt="vault" width="30" height="30" title="Vault" />
+</span>
 
 <!--
 <img src="icons/kubernetes-original.svg" alt="kubernetes" width="30" height="30" />
