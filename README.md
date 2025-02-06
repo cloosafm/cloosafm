@@ -12,7 +12,7 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 
   <span style="display: inline-block;">
     <img src="icons/git-original.svg" alt="git" width="30" height="30" />
-    <img src="icons/vecteezy_github-logo-transparent-background_46437248.png" alt="github" width="30" height="30" />
+    <img src="icons/vecteezy_github-logo-transparent-background_46437248.png" alt="github" width="50" height="50" />
   </span>
 
 - Programming languages
