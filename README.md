@@ -20,7 +20,7 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
   <span style="display: inline-block;">
     <img src="icons/c-original.svg" alt="c" width="30"     height="30" />
     <img src="icons/cplusplus-original.svg"     alt="cplusplus" width="30" height="30" />
-    <img src="icons/bash-original.svg" alt="bash"     width="30" height="30" />
+    <img src="icons/bash_32x32.svg" alt="bash"     width="30" height="30" />
     <img src="icons/python-original.svg" alt="python"     width="30" height="30" />
     <img src="icons/markdown-original.svg"     alt="markdown" width="30" height="30" />
     <img src="icons/hashicorp-svgrepo-com.svg"     alt="HCL" width="30" height="30" />
