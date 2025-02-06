@@ -2,14 +2,61 @@
 
 ### Hello World !
 
-I am currently studying at [École 42](https://42.fr/en/homepage/), where I have completed the Common Core projects. Now, I am focusing on projects that will help me specialize in DevOps and DevSecOps. I have a strong interest in automation, security, and streamlining deployment processes. This repository serves as a place to document my work, explore new technologies, and refine my skills. Feel free to take a look around.
+I am currently studying at [École 42](https://42.fr/en/homepage/), where I have completed the Common Core program. Now, I am focusing on projects that will help me specialize in DevOps and DevSecOps. I have a strong interest in automation, security, and streamlining deployment processes. This repository serves as a place to document my work, explore new technologies, and refine my skills. Feel free to take a look around!
 
 ---
-<!---
+
+-
 ### 42 Stats Card
 
 [![My 42 stats](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
---->
+-
+
+### Technologies and Tools I have used
+
+- Version control
+
+  <span style="display: inline-block;">
+    <img src="icons/git-original.svg" alt="git" width="30" height="30" />
+  </span>
+
+- Programming languages
+
+  <span style="display: inline-block;">
+    <img src="icons/c-original.svg" alt="c" width="30"     height="30" />
+    <img src="icons/cplusplus-original.svg"     alt="cplusplus" width="30" height="30" />
+    <img src="icons/bash-original.svg" alt="bash"     width="30" height="30" />
+    <img src="icons/python-original.svg" alt="python"     width="30" height="30" />
+    <img src="icons/markdown-original.svg"     alt="markdown" width="30" height="30" />
+    <img src="icons/hashicorp-svgrepo-com.svg"     alt="HCL" width="30" height="30" />
+    <img src="icons/yaml-original.svg" alt="yaml"     width="30" height="30" />
+  </span>
+
+- Editors
+
+  <span style="display: inline-block;">
+    <img src="icons/vscode-original.svg" alt="vscode"     width="30" height="30" />
+    <img src="icons/vim-original.svg" alt="vim"     width="30" height="30" />
+  </span>
+
+- DevOps tools
+
+  <span style="display: inline-block;">
+    <img src="icons/ansible-original.svg" alt="ansible"     width="30" height="30" />
+    <img src="icons/docker-plain.svg" alt="docker"     width="30" height="30" />
+    <img src="icons/terraform-original.svg"     alt="terraform" width="30" height="30" />
+    <img src="icons/googlecloud-original.svg"     alt="google cloud" width="30" height="30" />
+    <img src="icons/vagrant-original.svg" alt="vagrant"     width="30" height="30" />
+    <img src="icons/grafana-original.svg" alt="grafana"     width="30" height="30" />
+    <img src="icons/vault-original.svg" alt="vault"     width="30" height="30" />
+  </span>
+
+<!--
+<img src="icons/kubernetes-original.svg" alt="kubernetes" width="30" height="30" />
+-->
+
+
+---
 
 ### My Common Core projects
 <div align="center">
@@ -67,51 +114,6 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 
 ---
 
-### Technologies and Tools I have used
-
-- Version control
-
-  <span style="display: inline-block;">
-    <img src="icons/git-original.svg" alt="git" width="30" height="30" />
-  </span>
-
-- Programming languages
-
-  <span style="display: inline-block;">
-    <img src="icons/c-original.svg" alt="c" width="30"     height="30" />
-    <img src="icons/cplusplus-original.svg"     alt="cplusplus" width="30" height="30" />
-    <img src="icons/bash-original.svg" alt="bash"     width="30" height="30" />
-    <img src="icons/python-original.svg" alt="python"     width="30" height="30" />
-    <img src="icons/markdown-original.svg"     alt="markdown" width="30" height="30" />
-    <img src="icons/hashicorp-svgrepo-com.svg"     alt="HCL" width="30" height="30" />
-    <img src="icons/yaml-original.svg" alt="yaml"     width="30" height="30" />
-  </span>
-
-- Editors
-
-  <span style="display: inline-block;">
-    <img src="icons/vscode-original.svg" alt="vscode"     width="30" height="30" />
-    <img src="icons/vim-original.svg" alt="vim"     width="30" height="30" />
-  </span>
-
-- DevOps tools
-
-  <span style="display: inline-block;">
-    <img src="icons/ansible-original.svg" alt="ansible"     width="30" height="30" />
-    <img src="icons/docker-plain.svg" alt="docker"     width="30" height="30" />
-    <img src="icons/terraform-original.svg"     alt="terraform" width="30" height="30" />
-    <img src="icons/googlecloud-original.svg"     alt="google cloud" width="30" height="30" />
-    <img src="icons/vagrant-original.svg" alt="vagrant"     width="30" height="30" />
-    <img src="icons/grafana-original.svg" alt="grafana"     width="30" height="30" />
-    <img src="icons/vault-original.svg" alt="vault"     width="30" height="30" />
-  </span>
-
-<!--
-<img src="icons/kubernetes-original.svg" alt="kubernetes" width="30" height="30" />
--->
-
-
----
 ### My specialization projects
 
 #### Infrastucture and deployment
