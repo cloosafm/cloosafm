@@ -1,12 +1,3 @@
-<style>
-  .center {
-    text-align: center;
-  }
-  .center a {
-    text-decoration: none;
-  }
-</style>
-
 # cloosafm
 
 ### Hello World !
@@ -21,55 +12,60 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 --->
 
 ### My Common Core projects
-<div class="center">
-  <a href="https://gitlab.com/42_cursus1/libft_42">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/Born2beroot">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/get_next_line">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/ft_printf">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="42 Badge" width="90" height="90">
-  </a>
+<div align="center">
 
-  <a href="https://gitlab.com/42_cursus1/minitalk">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/push_swap">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/so_long">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/philosophers">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/minishell">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png" alt="42 Badge" width="90" height="90">
-  </a>
+<a href="https://gitlab.com/42_cursus1/libft_42">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/Born2beroot">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/get_next_line">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/ft_printf">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="42 Badge" width="90" height="90">
+</a>
 
-  <a href="https://gitlab.com/42_cursus1/netpractice">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/cub3d">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/cpp_piscine">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/inception">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png" alt="42 Badge" width="90" height="90">
-  </a>
-  <a href="https://gitlab.com/42_cursus1/ft_irc">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png" alt="42 Badge" width="90" height="90">
-  </a>
 
-  <a href="https://github.com/Dylonni/42_ft_transcendence">
-    <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png" alt="42 Badge" width="90" height="90">
-  </a>
+<a href="https://gitlab.com/42_cursus1/minitalk">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/push_swap">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/so_long">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/philosophers">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/philosopherse.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/minishell">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png" alt="42 Badge" width="90" height="90">
+</a>
+
+
+<a href="https://gitlab.com/42_cursus1/netpractice">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/cub3d">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/cpp_piscine">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/inception">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png" alt="42 Badge" width="90" height="90">
+</a>
+<a href="https://gitlab.com/42_cursus1/ft_irc">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png" alt="42 Badge" width="90" height="90">
+</a>
+
+
+<a href="https://github.com/Dylonni/42_ft_transcendence">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png" alt="42 Badge" width="90" height="90">
+</a>
+
 </div>
 
 ---
