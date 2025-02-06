@@ -25,8 +25,8 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 </a>
 <a href="https://gitlab.com/42_cursus1/ft_printf">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="42 Badge" width="90" height="90">
-</a>  
-
+</a>
+<br>
 <a href="https://gitlab.com/42_cursus1/minitalk">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png" alt="42 Badge" width="90" height="90">
 </a>
