@@ -62,6 +62,7 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 <a href="https://github.com/Dylonni/42_ft_transcendence">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png" alt="42 Badge" width="75" height="75">
 </a>
+
 <!---
 <a href="https://gitlab.com/42_cursus1/libft_42">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/libftm.png)</a>
 <a href="https://gitlab.com/42_cursus1/Born2beroot">![42 Badge](https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png)</a>
