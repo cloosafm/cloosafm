@@ -41,8 +41,8 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 </a>
 <a href="https://gitlab.com/42_cursus1/minishell">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minishellm.png" alt="42 Badge" width="90" height="90">
-</a>  
-
+</a>
+<br>
 <a href="https://gitlab.com/42_cursus1/netpractice">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png" alt="42 Badge" width="90" height="90">
 </a>
@@ -57,8 +57,8 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 </a>
 <a href="https://gitlab.com/42_cursus1/ft_irc">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png" alt="42 Badge" width="90" height="90">
-</a>  
-
+</a>
+<br>
 <a href="https://github.com/Dylonni/42_ft_transcendence">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png" alt="42 Badge" width="90" height="90">
 </a>
