@@ -6,12 +6,6 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 
 ---
 
--
-### 42 Stats Card
-
-[![My 42 stats](https://badge42.vercel.app/api/v2/cl8llmf4200060hmkt4qtrpqm/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
--
-
 ### Technologies and Tools I have used
 
 - Version control
@@ -152,14 +146,14 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 </div>
 
 
-<!---
+
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloosafm&langs_count=5&hide_title=true&count_private=true&include_all_commits=true&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!---
 
 (https://github.com/anuraghazra/github-readme-stats)
 
