@@ -45,7 +45,7 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
     <img src="icons/vagrant-original.svg" alt="vagrant" width="30" height="30" title="Vagrant" />
     <img src="icons/grafana-original.svg" alt="grafana" width="30" height="30" title="Grafana" />
     <img src="icons/vault-original.svg" alt="vault" width="30" height="30" title="Vault" />
-    <img src="icons/k3s.svg" alt="k3s" width="30" height="30" title="k3s" />
+    <img src="icons/K3s.svg" alt="k3s" width="30" height="30" title="k3s" />
     <img src="icons/kubernetes-original.svg" alt="kubernetes" width="30" height="30" title="kubernetes" />
     <img src="icons/Argo-CD.svg" alt="Argo-CD" width="30" height="30" title="ArgoCD" />
 </span>
