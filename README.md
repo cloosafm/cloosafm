@@ -120,21 +120,23 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 
 |Project|Tech stack|Description|Completion
 |:--:|:--:|:--:|:--:|
-| [cloud-1](https://github.com/cloosafm/cloud-1) | Terraform, Ansible, Docker, GCP | Introduction to cloud servers (here GCP) and automation with terraform and ansible | 100% |
+| [cloud-1](https://github.com/cloosafm/cloud-1) | Terraform, Ansible, Docker, GCP | Introduction to cloud servers (here GCP) and automation with terraform and ansible | Full |
 | [Bgp At Doors of Autonomous Systems is Simple](https://github.com/cloosafm/BADASS) | GNS3, frrouting | A project on BGP and autonomous systems, with network simulations of VXLAN, BGP-EVPN | In Progress |
+| [Inception-of-Things](https://github.com/Silveratis0922/Inception_of_Things) | k3s, k3d, ArgoCD | Introduction to Kubernetes and CD pipeline (ArgoCD), and self-hosting (gitlab) | Full |
+
 
 #### Cybersecurity
 
 |Project|Concepts|Description|Completion
 |:--:|:--:|:--:|:--:|
-| [darkly](https://github.com/cloosafm/darkly) | OWASP, CWE, scripting | A project on web security, with various CTF challenges on a vulnerable site | 125% |
+| [darkly](https://github.com/cloosafm/darkly) | OWASP, CWE, scripting | A project on web security, with various CTF challenges on a vulnerable site | Full |
 
 
 #### Miscellanous
 
 |Project|Language|Description|Completion
 |:--:|:--:|:--:|:--:|
-| [Python for Data Science](https://github.com/cloosafm/piscine_python) | Python | Introduction to Python and various libraries (NumPy, matplotlib, Pillow) | 100% |
+| [Python for Data Science](https://github.com/cloosafm/piscine_python) | Python | Introduction to Python and various libraries (NumPy, matplotlib, Pillow) | Full |
 
 
 ---
