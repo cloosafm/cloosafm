@@ -65,20 +65,20 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 </a>
 
 <a href="https://gitlab.com/42_cursus1/Born2beroot">
-  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="Born2beroot" width="90" height="90" title="sysadmin basics">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/born2berootm.png" alt="Born2beroot" width="90" height="90" title="Sysadmin basics">
 </a>
 <a href="https://gitlab.com/42_cursus1/get_next_line">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/get_next_linem.png" alt="get_next_line" width="90" height="90" title="Read from fd">
 </a>
 <a href="https://gitlab.com/42_cursus1/ft_printf">
-  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="ft_printf" width="90" height="90" title="Recode limited printf">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_printfm.png" alt="ft_printf" width="90" height="90" title="Recode a limited printf">
 </a>
 <br>
 <a href="https://gitlab.com/42_cursus1/minitalk">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/minitalkm.png" alt="minitalk" width="90" height="90" title="Intro to UNIX signals">
 </a>
 <a href="https://gitlab.com/42_cursus1/push_swap">
-  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png" alt="push_swap" width="90" height="90" title="Sorting algo">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/push_swape.png" alt="push_swap" width="90" height="90" title="Sorting algorithm">
 </a>
 <a href="https://gitlab.com/42_cursus1/so_long">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/so_longm.png" alt="so_long" width="90" height="90" title="Create a 2D game">
@@ -91,23 +91,23 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 </a>
 <br>
 <a href="https://gitlab.com/42_cursus1/netpractice">
-  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png" alt="netpractice" width="90" height="90" title="Intro to networks and subnets">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/netpracticee.png" alt="netpractice" width="90" height="90" title="Intro to networks and subnetting">
 </a>
 <a href="https://gitlab.com/42_cursus1/cub3d">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cub3dm.png" alt="cub3d" width="90" height="90" title="3D maze in ray casting">
 </a>
 <a href="https://gitlab.com/42_cursus1/cpp_piscine">
-  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png" alt="CPP" width="90" height="90" title="New language : C++">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/cppm.png" alt="CPP" width="90" height="90" title="Learn a new language : C++">
 </a>
 <a href="https://gitlab.com/42_cursus1/inception">
-  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png" alt="inception" width="90" height="90" title="Containerization, with Docker">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/inceptionm.png" alt="inception" width="90" height="90" title="Learn containerization with Docker">
 </a>
 <a href="https://gitlab.com/42_cursus1/ft_irc">
   <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_ircm.png" alt="ft_irc" width="90" height="90" title="Make your own basic IRC server">
 </a>
 <br>
 <a href="https://github.com/Dylonni/42_ft_transcendence">
-  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png" alt="ft_transcendence" width="90" height="90" title="Deploy a web app securely">
+  <img src="https://github.com/cloosafm/cloosafm/blob/main/42_badges/ft_transcendencem.png" alt="ft_transcendence" width="90" height="90" title="Deploy a full-stack web app securely">
 </a>
 
 </div>
