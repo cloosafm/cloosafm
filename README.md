@@ -121,7 +121,7 @@ I am currently studying at [École 42](https://42.fr/en/homepage/), where I hav
 |Project|Tech stack|Description|Completion
 |:--:|:--:|:--:|:--:|
 | [cloud-1](https://github.com/cloosafm/cloud-1) | Terraform, Ansible, Docker, GCP | Introduction to cloud servers (here GCP) and automation with terraform and ansible | Full |
-| [Bgp At Doors of Autonomous Systems is Simple](https://github.com/cloosafm/BADASS) | GNS3, frrouting | A project on BGP and autonomous systems, with network simulations of VXLAN, BGP-EVPN | In Progress |
+| [Bgp At Doors of Autonomous Systems is Simple](https://github.com/cloosafm/BADASS) | GNS3, frrouting | A project on BGP and autonomous systems, with network simulations of VXLAN, BGP-EVPN | Full |
 | [Inception-of-Things](https://github.com/Silveratis0922/Inception_of_Things) | k3s, k3d, ArgoCD | Introduction to Kubernetes and CD pipeline (ArgoCD), and self-hosting (gitlab) | Full |
 
 
